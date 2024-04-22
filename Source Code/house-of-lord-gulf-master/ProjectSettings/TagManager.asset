@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Speaker
+  - Candy
+  - Booster
+  - BG Tile
+  - Empty Space
+  - Effects
+  - Main Menu
+  - ReconnectingPanel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Effects
+  - Water
+  - UI
+  - No Post
+  - lightrays2d
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Candy
+    uniqueID: 4022759133
+    locked: 0
+  - name: Shop Background Effects
+    uniqueID: 2250758121
+    locked: 0
+  - name: UI
+    uniqueID: 2073391133
+    locked: 0
+  - name: Candy VFX
+    uniqueID: 3247202141
+    locked: 0
+  - name: Booster VFX
+    uniqueID: 966411125
+    locked: 0
+  - name: Boosters
+    uniqueID: 868456683
+    locked: 0

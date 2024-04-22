@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0712a5daea9b4a65a1041730d521642, type: 3}
+  m_Name: Booster_FireCracker
+  m_EditorClassIdentifier: 
+  itemImage: {fileID: -241054726, guid: c86a733c009f74291af20164d38d062a, type: 3}
+  itemName: Fire Cracker
+  itemId: bst_firecracker
+  candiesToActivate: 7
+  itemPrefab: {fileID: 7791055440864244500, guid: b7d4d63aaa2774f4f898bb8bd95ca984, type: 3}
+  itemGroup: 0
+  isPerk: 0

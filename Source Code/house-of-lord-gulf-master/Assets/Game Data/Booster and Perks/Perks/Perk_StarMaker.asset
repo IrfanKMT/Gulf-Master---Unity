@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0712a5daea9b4a65a1041730d521642, type: 3}
+  m_Name: Perk_StarMaker
+  m_EditorClassIdentifier: 
+  itemImage: {fileID: 1288625621, guid: 8886c247f5b8f40a581c878aa94ce63b, type: 3}
+  itemName: Star Maker
+  itemId: prk_starmaker
+  candiesToActivate: 5
+  itemPrefab: {fileID: 7794517998117299613, guid: 71ba95e90ea01493ebc6c04f40e93367, type: 3}
+  itemGroup: 4
+  isPerk: 1

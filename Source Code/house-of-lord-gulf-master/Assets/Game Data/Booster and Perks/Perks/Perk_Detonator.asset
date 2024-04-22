@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0712a5daea9b4a65a1041730d521642, type: 3}
+  m_Name: Perk_Detonator
+  m_EditorClassIdentifier: 
+  itemImage: {fileID: 702651611, guid: 2e031907c5d6a4f7bb7d2f82a0d9b06b, type: 3}
+  itemName: Detonator
+  itemId: prk_detonator
+  candiesToActivate: 5
+  itemPrefab: {fileID: 2149268618066076529, guid: 52638b2e5b49e4c02a8013bea4d5558e, type: 3}
+  itemGroup: 4
+  isPerk: 1

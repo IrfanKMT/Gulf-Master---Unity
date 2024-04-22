@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "37186396925",
+    "firebase_url": "https://com-houseoflords-gulfmaster-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "com-houseoflords-gulfmaster",
+    "storage_bucket": "com-houseoflords-gulfmaster.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37186396925:android:6b0dbe8d4e1bb08925d494",
+        "android_client_info": {
+          "package_name": "com.houseoflords.gulfmaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37186396925-7r5avmtph6ibh5vd5ldnaubb17akriei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCru8FGmx_PyRuXcNTrrmc-mMiz-4RjbRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37186396925-7r5avmtph6ibh5vd5ldnaubb17akriei.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "37186396925-i6pqvuggt3tk0ktbkq8a22g5q1qn9j1t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.houseoflords.gulfmaster"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8315570e404ecd8488927d61933f655e, type: 3}
+  m_Name: SpriteContainerForMashRoomCandy
+  m_EditorClassIdentifier: 
+  colorSprites:
+  - color: 0
+    sprite: {fileID: -387893523, guid: 548c9f29ae93b0745abf0a3a90f21969, type: 3}
+  - color: 1
+    sprite: {fileID: -1285025950, guid: 548c9f29ae93b0745abf0a3a90f21969, type: 3}
+  - color: 2
+    sprite: {fileID: -1952400531, guid: 548c9f29ae93b0745abf0a3a90f21969, type: 3}
+  - color: 3
+    sprite: {fileID: 1845569985, guid: 548c9f29ae93b0745abf0a3a90f21969, type: 3}
+  - color: 4
+    sprite: {fileID: 680615318, guid: 548c9f29ae93b0745abf0a3a90f21969, type: 3}

@@ -1,0 +1,488 @@
+fileFormatVersion: 2
+guid: 6f3ab544727314d23902d5f5d31b7c4e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boosters_slime
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 3509
+        width: 530
+        height: 539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c06f2d221bf14a628d35ca62ad243f1
+      internalID: 926156735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_mysteryhat
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 3580
+        width: 725
+        height: 468
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f0e1f2118954f8bb0f74da4444c5ff
+      internalID: 834148982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_crazyRocket
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 3580
+        width: 370
+        height: 454
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aee099507d90443aad3819b9be40161
+      internalID: 1667683544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_mastermind
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 3601
+        width: 377
+        height: 397
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c29e06b3127d4e50a5daab141ab04c1
+      internalID: 626198870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_magicwand
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 1991
+        width: 550
+        height: 785
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5315135037e284c8b9637f6c1399ed8c
+      internalID: 687338876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_foxyroxy
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1993
+        width: 407
+        height: 748
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055b027f17d3f43d8928e2c74c569cf1
+      internalID: -595498443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_paintbucket
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 2029
+        width: 810
+        height: 677
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd70358a02e244a9f80e6525bd26984f
+      internalID: 288368983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_laserBeam
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1125
+        width: 433
+        height: 847
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09767635a2aaf4d9cbd14f61205bff60
+      internalID: -1414137548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_lildragon
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1008
+        width: 591
+        height: 951
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6da4f57c4aa544628ff9ad47e6489c3
+      internalID: -1878122057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_ColonelMCQuack
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1018
+        width: 620
+        height: 929
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51a88ae8304048dbae1e34f1e1a436a
+      internalID: -833137807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_ufo
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1
+        width: 1078
+        height: 757
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e954c921b14e40778846e0a62819699
+      internalID: 531450868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_sweepIt
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 0
+        width: 714
+        height: 737
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79a2c2a7a7324a3dab5dcda0b82c44b
+      internalID: -1893307030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      boosters_10: 626296247
+      boosters_11: 306695217
+      boosters_12: -228653935
+      boosters_13: 313235947
+      boosters_14: -475390524
+      boosters_15: -1508684607
+      boosters_16: 1199281686
+      boosters_17: -991894331
+      boosters_18: -547033376
+      boosters_19: 1800197120
+      boosters_2: -574253254
+      boosters_20: -1651315983
+      boosters_21: -978245381
+      boosters_22: 1761338566
+      boosters_23: -890255652
+      boosters_24: 176211628
+      boosters_25: 443035580
+      boosters_26: -565046162
+      boosters_27: 2048964096
+      boosters_28: 2053588487
+      boosters_29: 1113119627
+      boosters_30: 1470917908
+      boosters_31: 126396197
+      boosters_32: -1603904531
+      boosters_33: 704911705
+      boosters_34: -293726496
+      boosters_35: -427822817
+      boosters_36: 1941316932
+      boosters_37: 1333408687
+      boosters_38: -266781651
+      boosters_39: -448719829
+      boosters_4: 1958116332
+      boosters_40: 481965925
+      boosters_41: -1286458177
+      boosters_42: -834509063
+      boosters_43: -2144890076
+      boosters_44: -1456315559
+      boosters_45: -664633693
+      boosters_46: -104868877
+      boosters_47: -239527321
+      boosters_48: 1348863739
+      boosters_49: -1021861167
+      boosters_5: 2023053239
+      boosters_50: -1661435147
+      boosters_51: 265787660
+      boosters_52: -279125812
+      boosters_53: 94075019
+      boosters_54: 1945644318
+      boosters_55: -1686320148
+      boosters_56: -775234437
+      boosters_57: 547713037
+      boosters_58: -1298655943
+      boosters_59: -647660439
+      boosters_60: -997984318
+      boosters_61: -937879081
+      boosters_62: 1481871251
+      boosters_63: -177099104
+      boosters_65: 1167847838
+      boosters_66: -1330531970
+      boosters_67: -197305530
+      boosters_69: -2024018280
+      boosters_71: -1502946254
+      boosters_72: -1659185656
+      boosters_73: -2102754069
+      boosters_74: -1529594484
+      boosters_75: 1849765950
+      boosters_76: -596457359
+      boosters_77: -581197607
+      boosters_78: -730462622
+      boosters_79: -1803295402
+      boosters_80: -644861318
+      boosters_81: -1408415297
+      boosters_86: 1995688728
+      boosters_87: -2053230314
+      boosters_88: 1812158330
+      boosters_89: 1264147140
+      boosters_90: 1175645000
+      boosters_ColonelMCQuack: -833137807
+      boosters_crazyRocket: 1667683544
+      boosters_foxyroxy: -595498443
+      boosters_laserBeam: -1414137548
+      boosters_lildragon: -1878122057
+      boosters_magicwand: 687338876
+      boosters_mastermind: 626198870
+      boosters_mysteryhat: 834148982
+      boosters_paintbucket: 288368983
+      boosters_slime: 926156735
+      boosters_sweepIt: -1893307030
+      boosters_ufo: 531450868
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

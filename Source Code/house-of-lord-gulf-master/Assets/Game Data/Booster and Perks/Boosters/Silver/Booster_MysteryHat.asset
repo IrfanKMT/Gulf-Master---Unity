@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0712a5daea9b4a65a1041730d521642, type: 3}
+  m_Name: Booster_MysteryHat
+  m_EditorClassIdentifier: 
+  itemImage: {fileID: 834148982, guid: 6f3ab544727314d23902d5f5d31b7c4e, type: 3}
+  itemName: Mystery Hat
+  itemId: bst_mysteryhat
+  candiesToActivate: 7
+  itemPrefab: {fileID: 1584949994221036280, guid: f329599faa4d1024b9a0f99cbe73d281, type: 3}
+  itemGroup: 1
+  isPerk: 0

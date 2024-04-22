@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8315570e404ecd8488927d61933f655e, type: 3}
+  m_Name: SpriteContainerForElectricCandy
+  m_EditorClassIdentifier: 
+  colorSprites:
+  - color: 0
+    sprite: {fileID: 21300000, guid: ad3c3edde0ecf437fb9991c90fb80f22, type: 3}
+  - color: 1
+    sprite: {fileID: 21300000, guid: 4861c80e6a19242cf8c47b80ed39b40a, type: 3}
+  - color: 2
+    sprite: {fileID: 21300000, guid: 07703593485ec4966a4c56842b724ed2, type: 3}
+  - color: 3
+    sprite: {fileID: 21300000, guid: 9d6455450d7fd49c8b42e42f7107ca03, type: 3}
+  - color: 4
+    sprite: {fileID: 21300000, guid: 319e4fb2817e6450fb88aedfcbaa5a9b, type: 3}
